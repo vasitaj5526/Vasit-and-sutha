@@ -1,8 +1,7 @@
-
 == RandomArt Project ==
 ===============
 
-Hello Everyone! I am Vava and my partner is Oung.
+Random Art >> Hello Everyone! I am Vava and my partner is Oung.
 
 Welcome to our World for sharing a lot code. ^^
 
