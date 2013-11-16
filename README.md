@@ -1,4 +1,7 @@
-Vasit-and-sutha
+Vasita-and-suthat 
 ===============
 
 Hello Everyone! 
+Welcome to our World for sharing a lot code. ^^
+We hope all can enjoy with us! 
+== RandomArt Project ==
