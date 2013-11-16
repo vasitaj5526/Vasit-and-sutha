@@ -1,8 +1,8 @@
-Vasita-and-suthat 
+
 == RandomArt Project ==
 ===============
 
-Hello Everyone! 
+Hello Everyone! I am Vava and my partner is Oung.
 
 Welcome to our World for sharing a lot code. ^^
 
